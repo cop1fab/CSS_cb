@@ -1,0 +1,62 @@
+[{
+    "id": "6",
+    "firstname": "Wanjiru",
+    "lastname": "Wahome",
+    "email": "wahomewa@gmail.com",
+    "phoneNumber": "0789101112",
+    "username": "wanjiru2018",
+    "registered": "12/12/2018",
+    "isAdmin": "true"
+  },
+  {
+    "id": "1",
+    "firstname": "Zulu",
+    "lastname": "Reuben",
+    "email": "zulu@gmail.com",
+    "phoneNumber": "078911314",
+    "username": "zulu2018",
+    "registered": "22/06/2018",
+    "isAdmin": "false"
+  },
+  {
+    "id": "8",
+    "firstname": "Martin",
+    "lastname": "Tembo",
+    "email": "mckee@gmail.com",
+    "phoneNumber": "0789103322",
+    "username": "mckee2018",
+    "registered": "10/02/2018",
+    "isAdmin": "false"
+  },
+  {
+    "id": "10",
+    "firstname": "Richard",
+    "lastname": "Mfura",
+    "email": "larose@gmail.com",
+    "phoneNumber": "0789109900",
+    "username": "mfula2018",
+    "registered": "08/8/2018",
+    "isAdmin": "false"
+  },
+  {
+    "id": "1",
+    "firstname": "Copain",
+    "lastname": "Fabrice",
+    "email": "fabrice@gmail.com",
+    "phoneNumber": "0789109908",
+    "username": "copain2018",
+    "registered": "30/09/2018",
+    "isAdmin": "true"
+  },
+  {
+    "id": "15",
+    "firstname": "Otieno Stephen",
+    "lastname": "Otieno",
+    "email": "otieno@gmail.com",
+    "phoneNumber": "0789109900",
+    "username": "otieno2018",
+    "registered": "08/8/2018",
+    "isAdmin": "false"
+  }
+
+]

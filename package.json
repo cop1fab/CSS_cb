@@ -1,0 +1,22 @@
+{
+  "name": "questioner",
+  "version": "1.0.0",
+  "description": "An app that allow users to ask question on meetups, vote for question and post comments ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cop1fab/Questioner.git"
+  },
+  "author": "copain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cop1fab/Questioner/issues"
+  },
+  "homepage": "https://github.com/cop1fab/Questioner#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
