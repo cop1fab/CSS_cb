@@ -1,0 +1,37 @@
+const meetup = [{
+    id: 1,
+    createdOn: Date.now(),
+    location: 'Kigali Convention Center',
+    images: '[../imagebank/css/css.jpg, http://imagebank/css/meetup7.jpg]',
+    topic: 'Web designing without CSS framework',
+    happeningOn: '12/12/2018',
+    tags: '[css, web, kigali]',
+  },
+  {
+    id: 2,
+    createdOn: Date.now(),
+    location: 'Kigali Institute of Science and technology',
+    images: './assets/images/dev.jpg',
+    topic: 'Test Driven Development',
+    happeningOn: '15/01/2019',
+    tags: '[TDD, OOP, Javascript]',
+  },
+  {
+    id: 3,
+    createdOn: Date.now(),
+    location: 'KLab',
+    images: './assets/images/meetme.jpg',
+    topic: 'NodeJs',
+    happeningOn: '27/2/2019',
+    tags: '[backend, javascript]'
+  },
+  {
+    id = 4,
+    createdOn: Date.now(),
+    location: 'Impact Hub',
+    images: './assets/images/oop.jpg',
+    topic: 'Object Oriented Programming',
+    happeningOn: '30/03/2019',
+    tags: '[OOP, Javascrip]',
+  },
+]
